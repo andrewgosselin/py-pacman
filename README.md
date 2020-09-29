@@ -1,2 +1,5 @@
-# py-pacman
-CST-186 - Simple pacman made in pygame.
+# MADE FOR CLASS CST-186
+
+## py-pacman
+Simple pacman made in pygame.
+
